@@ -1,6 +1,6 @@
 ### HI! My name is chenwuai 😃 
 + 🤟🏻 I like front-end development!
-    + HTML+CSS、ES6、ES7、canvas、TypeScript、web worker、webgl、WebAssembly
+    + HTML+CSS、ES6、ES7、canvas、TypeScript、MSE、web worker、webgl、WebAssembly
     + vue、vue-router、vuex、axios、element-ui
     + react(Wrote official demo)
     + PHP

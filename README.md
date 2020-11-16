@@ -1,4 +1,4 @@
-### HI! My name is chenwuai 😃 
+### HI! It is chenwuai 😃 [blog](https://xxcc.fun)
 + 🤟🏻 I like front-end development!
     + HTML+CSS、ES6、ES7、canvas、TypeScript、MSE、web worker、webgl、WebAssembly
     + vue、vue-router、vuex、axios、element-ui

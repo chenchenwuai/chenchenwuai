@@ -1,16 +1,20 @@
-### HI! It is chenwuai 😃 [blog](https://xxcc.fun)
-+ 🤟🏻 I like front-end development!
-    + HTML+CSS、ES6、ES7、canvas、TypeScript、MSE、web worker、webgl、WebAssembly
-    + vue、vue-router、vuex、axios、element-ui
-    + react(Wrote official demo)
-    + PHP
-    + webpack、rollup
-    + GIT、NPM
-    + Linux、MYSQL、Apache、Nginx
-    
-    + Postman、Wireshark、SourceTree、VS Code、Navicat、Xshell、WinScp
-    + Axure RP、PS
-+ 🌱 I’m currently learning nestjs(node framework)
+### HI! It is chenwuai 😃. This is my [blog](https://xxcc.fun)
+🤟🏻 I like full-stack development!
+
+Here is my technology stack:
++ HTML+CSS、SCSS
++ ES6、ES7、canvas、TypeScript、MSE、websocket、web worker、webgl、WebAssembly
++ vue、vue-router、vuex、axios、element-ui
++ react(Wrote official demo)
++ webpack、rollup
++ PHP
++ GIT、NPM
++ Linux、MYSQL、Apache、Nginx
+
++ Postman、Wireshark、SourceTree、VS Code、Navicat、Xshell、WinScp
++ Axure RP、PS
+
+🌱 I’m currently learning react and nestjs(node framework)
 
 
 [![chenchenwuai's github stats](https://github-readme-stats.vercel.app/api?username=chenchenwuai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

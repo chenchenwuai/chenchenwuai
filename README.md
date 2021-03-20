@@ -5,7 +5,6 @@ Here is my technology stack:
 + HTML+CSS、SCSS
 + ES6、ES7、canvas、TypeScript、MSE、websocket、web worker、webgl、WebAssembly
 + vue、vue-router、vuex、axios、element-ui
-+ react(Wrote official demo)
 + webpack、rollup
 + PHP
 + GIT、NPM
@@ -14,7 +13,7 @@ Here is my technology stack:
 + Postman、Wireshark、SourceTree、VS Code、Navicat、Xshell、WinScp
 + Axure RP、PS
 
-🌱 I’m currently learning react and nestjs(node framework)
+🌱 I’m currently learning react and nestjs(nodejs framework)
 
 
 [![chenchenwuai's github stats](https://github-readme-stats.vercel.app/api?username=chenchenwuai&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

@@ -10,6 +10,7 @@ Here is my technology stack:
 + GIT、NPM
 + Linux、MYSQL、Apache、Nginx
 
+Here is my common software:
 + Postman、Wireshark、SourceTree、VS Code、Navicat、Xshell、WinScp
 + Axure RP、PS
 
